@@ -2,5 +2,4 @@
 
 <<<<<<< HEAD
 banana
-cherry
 >>>>>>> main
