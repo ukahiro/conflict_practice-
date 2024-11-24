@@ -1,3 +1,5 @@
 # favorite food
 
-cherry
+<<<<<<< HEAD
+banana
+>>>>>>> main
